@@ -39,5 +39,5 @@ int check_cycle(listint_t *list)
 		}
 	}
 
-	retrun (0);
+	return (0);
 }
